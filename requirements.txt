@@ -1,1 +1,1 @@
-pip install openai python-dotenv streamlit PyPDF2 langchain_community langchain_openai langchain_textsplitters qdrant_client
+pip install openai python-dotenv streamlit PyPDF2 langchain_community langchain_openai langchain_text_splitters qdrant_client
